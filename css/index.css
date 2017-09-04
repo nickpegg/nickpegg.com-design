@@ -41,6 +41,11 @@ article {
   margin-bottom: 3rem;
 }
 
+.post-title {
+  color: inherit;
+  text-decoration: inherit;
+}
+
 .pagination-older {
   text-align: right;
 }
