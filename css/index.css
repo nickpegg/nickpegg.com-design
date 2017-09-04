@@ -1,7 +1,7 @@
 .page-header {
   background: #343a40;
   color: #ffffff;
-  margin-bottom: 1em;
+  margin-bottom: 2rem;
 }
 
 .page-header a {
@@ -9,9 +9,17 @@
   text-decoration: inherit;
 }
 
+.nav {
+  margin-top: 1rem;
+}
+
 .nav ul li {
   list-style-type: none;
   margin: 0;
+}
+
+.nav-header {
+  margin-bottom: 0;
 }
 
 @media (max-width: 999px) {
@@ -30,7 +38,7 @@
 }
 
 article {
-  margin-bottom: 3em;
+  margin-bottom: 3rem;
 }
 
 .pagination-older {
@@ -38,8 +46,8 @@ article {
 }
 
 .page-footer {
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   text-align: center;
   font-size: smaller;
 }
