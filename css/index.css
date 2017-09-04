@@ -1,3 +1,7 @@
+h1, h2, h3, h4, h5 {
+  font-family: 'Quicksand', sans-serif;
+}
+
 .page-header {
   background: #343a40;
   color: #ffffff;
@@ -9,6 +13,8 @@
   text-decoration: inherit;
 }
 
+/* nav
+ ****************************************/
 .nav {
   margin-top: 1rem;
 }
@@ -37,6 +43,8 @@
   }
 }
 
+/* articles
+ ****************************************/
 article {
   margin-bottom: 3rem;
 }
@@ -46,6 +54,8 @@ article {
   text-decoration: inherit;
 }
 
+/* footer
+ ****************************************/
 .pagination-older {
   text-align: right;
 }
