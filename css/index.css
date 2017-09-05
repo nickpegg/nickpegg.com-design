@@ -1,10 +1,22 @@
+body {
+  background: #FCFCFC;
+  color: #35352F;
+}
+
+a {
+  color: #C13828;
+}
+
+a:hover {
+  color: #FC464F;
+}
+
 h1, h2, h3, h4, h5 {
   font-family: 'Quicksand', sans-serif;
 }
 
 .page-header {
-  background: #343a40;
-  color: #ffffff;
+  background: #74E8E2;
   margin-bottom: 2rem;
 }
 
