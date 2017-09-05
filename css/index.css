@@ -70,6 +70,24 @@ article {
   text-decoration: inherit;
 }
 
+.post-title h1 {
+  margin-bottom: 0rem;
+}
+
+.post-meta {
+  color: #757575;
+  margin-bottom: 2rem;
+}
+
+.post-tags {
+  display: inline;
+  margin-left: 1rem;
+}
+
+.post-tags * {
+  display: inline;
+}
+
 /* Article headers should go down one size. This is because when you use a
  * `#` in Markdown, it outputs a <h1>, but we don't want post headers to be the
  * same size as headers elsewhere.
