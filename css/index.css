@@ -89,15 +89,9 @@ article section h5 { font-size: 1.5rem; line-height: 1.5;  letter-spacing: -.05r
 
 /* footer
  ****************************************/
-.pagination-older {
-  text-align: right;
-}
-
 .page-footer {
   margin-top: 1rem;
   margin-bottom: 1rem;
   text-align: center;
   font-size: smaller;
 }
-
-
