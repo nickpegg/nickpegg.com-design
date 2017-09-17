@@ -15,6 +15,13 @@ h1, h2, h3, h4, h5 {
   font-family: 'Quicksand', sans-serif;
 }
 
+blockquote {
+  margin-left: 0;
+  border-left: 0.5rem solid #dfe2e5;
+  padding-left: 2rem;
+  color: #666D70;
+}
+
 .page-header {
   background: #74E8E2;
   margin-bottom: 2rem;
