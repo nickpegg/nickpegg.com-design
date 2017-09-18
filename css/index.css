@@ -96,6 +96,11 @@ article {
   display: inline;
 }
 
+/* Override this since hljs removes what skeleton sets */
+.hljs {
+  padding: 1rem 1.5rem
+}
+
 /* Article headers should go down one size. This is because when you use a
  * `#` in Markdown, it outputs a <h1>, but we don't want post headers to be the
  * same size as headers elsewhere.
